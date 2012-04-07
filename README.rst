@@ -6,6 +6,8 @@ Prime Number Checker ver. 0.1
 
 Use nosetests to run all unittests.
 
+Please use terminal command(Ubuntu): 'sudo apt-get install python-tk' to install Python-tk module.
+
 Changelog
 ---------
 
