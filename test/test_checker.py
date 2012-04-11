@@ -4,6 +4,7 @@ import unittest
 
 from ..src.prime_checker import PrimeChecker
 
+
 class TestPrimeChecker(unittest.TestCase):
     def test_prime_numbers(self):
 
