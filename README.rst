@@ -1,5 +1,5 @@
 ============================================
-Prime Number Checker ver. 0.1
+Prime Number Checker
 ============================================
 
 *Prime Finder* is an application with graphical interface for finding prime numbers.
