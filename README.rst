@@ -1,10 +1,12 @@
 ============================================
-Prime Number Finder
+Prime Number Checker ver. 0.1
 ============================================
 
-*Prime Finder* is an simple application created for finding prime numbers.
+*Prime Finder* is an application with graphical interface for finding prime numbers.
 
 Use nosetests to run all unittests.
+
+Please use terminal command(Ubuntu): 'sudo apt-get install python-tk' to install Python-tk module.
 
 Changelog
 ---------
